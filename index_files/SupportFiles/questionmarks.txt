@@ -1,0 +1,7 @@
+When exporting to html, strange <?> may appear.
+
+To resolve, go to far right of excel page and enter following formula for title/studio/directors:
+
+=TRIM(CLEAN(SUBSTITUTE(A1,CHAR(160)," ")))
+
+Copy new text values back to table, remove new table.
