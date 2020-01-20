@@ -1,6 +1,6 @@
 When exporting to html, strange <?> may appear.
 
-To resolve, go to far right of excel page and enter following formula for title/studio/directors:
+To resolve, go to far right of excel page and enter following formula for title/studio/directors/country/format:
 
 =TRIM(CLEAN(SUBSTITUTE(A1,CHAR(160)," ")))
 

@@ -1,0 +1,9 @@
+To resize images (compressing them for online repository),
+use free browser tool: 
+
+https://bulkresizephotos.com/en
+
+Resize with width = 720 (display size in webpage).
+Up to 150 images at a time can be uploaded.
+
+Result example: 41 MB -> 16 MB
