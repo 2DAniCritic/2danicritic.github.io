@@ -5,3 +5,12 @@ To resolve, go to far right of excel page and enter following formula for title/
 =TRIM(CLEAN(SUBSTITUTE(A1,CHAR(160)," ")))
 
 Copy new text values back to table, remove new table.
+
+
+
+Other tips:
+
+- Convert columns with text to numbers using "=VALUE()" (similar process to above).
+
+- If using extra rows and columns for junk data, their contents might not be properly deleted, causing the size of the file to be much larger than necessary.
+	Regularly delete excess rows beyond where the data is stored.
