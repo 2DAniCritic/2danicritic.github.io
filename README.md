@@ -13,5 +13,5 @@ References or quotes of the material must include citations to the original sour
 
     2danicritic, "<title of article>", <web link to article>
     
-Image and supporting material might be used alongside written material. Copyright to this material may not belong to this author, in which case it may be reposted elsewhere (if hosted and not directly linked to the original host location) without explicit permission from the author of the supplementary written work (copyright to the original creator of the image(s) may apply). 
+Images and supporting material might be used alongside written material. Copyright to this material may not belong to this author, in which case it may be reposted elsewhere (if hosted and not directly linked to the original host location) without explicit permission from the author of the supplementary written work (copyright to the original creator of the image(s) may apply). 
 
