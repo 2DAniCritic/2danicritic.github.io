@@ -357,18 +357,25 @@ td
 	border-left:none;}
 .xl101
 	{mso-style-parent:style0;
+	text-align:left;
+	border-top:.5pt solid #8EA9DB;
+	border-right:none;
+	border-bottom:.5pt solid #8EA9DB;
+	border-left:none;}
+.xl102
+	{mso-style-parent:style0;
 	border-top:.5pt solid #8EA9DB;
 	border-right:none;
 	border-bottom:none;
 	border-left:none;}
-.xl102
+.xl103
 	{mso-style-parent:style0;
 	text-align:center;
 	border-top:.5pt solid #8EA9DB;
 	border-right:none;
 	border-bottom:none;
 	border-left:none;}
-.xl103
+.xl104
 	{mso-style-parent:style0;
 	text-align:left;
 	border-top:.5pt solid #8EA9DB;
