@@ -378,3 +378,32 @@ td
 .xl104
 	{mso-style-parent:style0;
 	text-align:left;}
+.xl105
+	{mso-style-parent:style16;
+	color:#0563C1;
+	text-decoration:underline;
+	text-underline-style:single;}
+.xl106
+	{mso-style-parent:style0;
+	text-align:left;
+	vertical-align:middle;}
+.xl107
+	{mso-style-parent:style0;
+	mso-number-format:Fixed;
+	text-align:center;}
+.xl108
+	{mso-style-parent:style0;
+	text-align:left;
+	border-top:.5pt solid #8EA9DB;
+	border-right:none;
+	border-bottom:.5pt solid #8EA9DB;
+	border-left:none;}
+.xl109
+	{mso-style-parent:style16;
+	color:#0563C1;
+	text-decoration:underline;
+	text-underline-style:single;
+	border-top:.5pt solid #8EA9DB;
+	border-right:none;
+	border-bottom:.5pt solid #8EA9DB;
+	border-left:none;}
