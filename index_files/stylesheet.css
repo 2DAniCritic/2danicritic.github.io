@@ -341,16 +341,16 @@ td
 	text-align:left;}
 .xl99
 	{mso-style-parent:style0;
-	border-top:.5pt solid #8EA9DB;
-	border-right:none;
-	border-bottom:.5pt solid #8EA9DB;
-	border-left:none;}
-.xl100
-	{mso-style-parent:style0;
 	text-align:center;
 	vertical-align:middle;
 	background:#CCECFF;
 	mso-pattern:black none;}
+.xl100
+	{mso-style-parent:style0;
+	border-top:.5pt solid #8EA9DB;
+	border-right:none;
+	border-bottom:.5pt solid #8EA9DB;
+	border-left:none;}
 .xl101
 	{mso-style-parent:style0;
 	text-align:center;
